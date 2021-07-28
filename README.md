@@ -12,9 +12,7 @@
 ```tsx
 
 const Profile = () => {
-  return (
-    <h3>A passionate developer from india!</h3>
-  );
+ console.log("A passionate developer from india!");
 };
 Profile();
 ```
